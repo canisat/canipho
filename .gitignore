@@ -1,0 +1,18 @@
+# Cache
+__pycache__
+
+# Source images
+*.pho
+
+# Hex listings
+*.hex.txt
+
+# Converted images
+*.jpg
+
+# Google Earth
+*.kml
+
+# Esri
+*.jgw
+*.prj
